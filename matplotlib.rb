@@ -40,7 +40,7 @@ class Matplotlib < Formula
 
   bottle do
     sha256 "b3f67caebdcf086943f973fda99e4f5c7bbc3f72b82623bfbed4ffe027376aef" => :yosemite
-    sha256 "9ac2bc778d212248e93e758e9b0c1ac495012d904dac88c269f9882342a4503b" => :mavericks
+    sha256 "efe43e58296deaa34026aa458f1932eaa95abca0ff68a8ead45d0bc0c847cdf1" => :mavericks
     sha256 "bebebabfa0adfc74e18db8ced70c4aa32effc202a1bb960a67f9164bff688798" => :mountain_lion
   end
 
